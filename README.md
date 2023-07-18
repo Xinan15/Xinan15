@@ -12,7 +12,6 @@ I consider myself honest, responsible, and detail-oriented. I'm also firmly comm
 ## 💻 Tech-stack:
 - Python
 - JavaScript
-- React
-- Node.js
+- MERN (MongoDB, Express, React, Node)
 - HTML
 - CSS
