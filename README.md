@@ -13,5 +13,6 @@ I consider myself honest, responsible, and detail-oriented. I'm also firmly comm
 - Python
 - JavaScript
 - MERN (MongoDB, Express, React, Node)
+- Vue
 - HTML
 - CSS
