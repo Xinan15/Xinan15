@@ -1,18 +1,18 @@
 # Xinan (Ian) Yang
+### Hi there! 👋
 
-### Hi there!👋
+### 👨🏻‍💻 About Me
+- Hi, my name is **Xinan (Ian) Yang**, a junior full-stack developer and a recent graduate with a strong passion for data and continuous learning.
+- [My Portfolio](https://xinan15.github.io/Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/iany11/)
 
-# 🚀 About Me
-Hi there! I'm Ian (Xinan) Yang. A junior full stack developer, a new graduate, a data enthusiast, and a lifelong learner.
+### 🎓 Education
+- I graduated with an MSc in Computing and Information Systems from Queen Mary, University of London, where I specialised in full-stack development techs.
+- I'm open to new opportunities and challenges, and I'm currently looking for a full-time or internship role as a full-stack developer.
 
-I'm studying MSc Computing and Information Systems at Queen Mary, University of London, where I learned Frontend and Backend technologies.
-
-I consider myself honest, responsible, and detail-oriented. I'm also firmly committed to the projects I'm assigned, giving my best to complete the tasks with the best possible outcome.
-
-## 💻 Tech-stack:
-- Python
-- JavaScript
-- MERN (MongoDB, Express, React, Node)
-- Vue
-- HTML
-- CSS
+### 💻 Tech Stack
+- **JavaScript**: Express, React, Node.js, Vue.js
+- **Java**: Spring Boot
+- **Python**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+- **Database**: MongoDB, MySQL
+- **Web Development**: HTML, CSS, Bootstrap, Tailwind, jQuery, RESTful API, NPM, JSON, XML, JWT
