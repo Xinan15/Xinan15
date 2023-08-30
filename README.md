@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 - Hi, my name is **Xinan (Ian) Yang**, a junior full-stack developer and a recent graduate with a strong passion for data and continuous learning.
-- [My Portfolio](https://xinan15.github.io/Portfolio/)
+- [My Portfolio](https://xinan15.github.io/Xinan/)
 - [LinkedIn](https://www.linkedin.com/in/iany11/)
 
 ### 🎓 Education
