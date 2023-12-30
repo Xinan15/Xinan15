@@ -7,6 +7,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=nord_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xinan15&theme=nord_dark)
+
 ### 🎓 Education
 - I graduated with an MSc in Computing and Information Systems at Queen Mary, University of London.
 - I'm open to new opportunities and challenges.
