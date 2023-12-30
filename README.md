@@ -5,6 +5,7 @@
 - [Portfolio](https://xinan15.github.io/Xinan/)
 - [LinkedIn](https://www.linkedin.com/in/iany11/)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colinpereira&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xinan15&theme=nord_dark)
 
