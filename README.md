@@ -6,7 +6,6 @@
 - [LinkedIn](https://www.linkedin.com/in/iany11/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=nord_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xinan15&theme=nord_dark)
 
 ### 🎓 Education
