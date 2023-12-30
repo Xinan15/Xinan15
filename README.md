@@ -5,7 +5,9 @@
 - Hi, I'm Xinan (Ian) Yang, a software developer.
 - [Portfolio](https://xinan15.github.io/Xinan/)
 - [LinkedIn](https://www.linkedin.com/in/iany11/)
+
 <br>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=nord_dark)
+
 ### 🎓 Education
 - I graduated with an MSc in Computing and Information Systems at Queen Mary, University of London.
 - I'm open to new opportunities and challenges.
