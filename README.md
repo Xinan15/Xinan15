@@ -10,7 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xinan15&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xinan15&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xinan15&theme=transparent&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xinan15&theme=transparent&utcOffset=0)
 
 ### 🎓 Education
 - I obtained an MSc in Computing and Information Systems from Queen Mary, University of London.
