@@ -2,7 +2,6 @@
 
 ### 👨🏻‍💻 About Me
 - Hi, I'm Xinan (Ian) Yang, looking for internship and job opportunities as a junior software engineer.
-
 - [Portfolio](https://xinan15.github.io/Xinan/)
 - [LinkedIn](https://www.linkedin.com/in/iany11/)
 
