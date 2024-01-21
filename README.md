@@ -19,5 +19,5 @@
 - **JavaScript**: React, Node.js, Vue.js, Express.
 - **Java**: Spring Boot.
 - **Python**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
-- **Database**: MongoDB, MySQL, SQL.
+- **Database**: Redis, MySQL, MongoDB, SQL.
 - **Web Development**: HTML, CSS, Bootstrap, Tailwind, jQuery, RESTful API, NPM, JSON, XML, JWT.
