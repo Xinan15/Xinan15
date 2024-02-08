@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 ### 👨🏻‍💻 About Me
-- Hi, I'm Xinan (Ian) Yang, looking for internship and job opportunities as a junior software engineer.
+- Hi, I'm Xinan (Ian) Yang, a new graduate looking for internship and job opportunities as a junior software engineer.
 - [Portfolio](https://xinan15.github.io/Xinan/)
 - [LinkedIn](https://www.linkedin.com/in/iany11/)
 
@@ -13,11 +13,12 @@
 
 ### 🎓 Education
 - I obtained an MSc in Computing and Information Systems from Queen Mary, University of London.
-- I'm open to new opportunities and challenges.
+- Core Modules: Computer Architecture and Networks, Database Systems, Security and Authentication, AI Risk and Decision-Making, Software Engineering, Data Analytics, and Interactive System Design.
 
 ### 💻 Tech Stack
-- **JavaScript**: React, Node.js, Vue.js, Express.
 - **Java**: Spring Boot.
+- **JavaScript**: React, Node.js, Vue.js, Express, jQuery.
 - **Python**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
 - **Database**: Redis, MySQL, MongoDB, SQL.
-- **Web Development**: HTML, CSS, Bootstrap, Tailwind, jQuery, RESTful API, NPM, JSON, XML, JWT.
+- **Operating Systems**: Linux, Mac OS, Windows.
+- **Web Development**: HTML, CSS, Bootstrap, Tailwind, RESTful API, NPM, JSON, XML, JWT.
