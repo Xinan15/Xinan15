@@ -44,3 +44,5 @@
 ![XML](https://img.shields.io/badge/XML-%23008000.svg?&style=for-the-badge&logo=xml&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?&style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
