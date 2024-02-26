@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - I'm a CS graduate from QMUL with project-based software development experience.
-- Please check out my [portfolio](https://xinan15.github.io/Xinan/) and [LinkedIn](https://www.linkedin.com/in/iany11/) for more information, and please feel free to reach out.
+- Please check out my [portfolio](https://xinan15.github.io/Xinan/) and [LinkedIn](https://www.linkedin.com/in/iany11/) for more information, and feel free to reah out.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xinan15&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=transparent)
@@ -46,3 +46,4 @@
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?&style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
