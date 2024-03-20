@@ -3,11 +3,14 @@
 - I'm a CS graduate from QMUL with project-based software development experience.
 - Please check out my [portfolio](https://xinan15.github.io/Xinan/) and [LinkedIn](https://www.linkedin.com/in/iany11/) for more information, and feel free to reah out.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xinan15&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xinan15&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xinan15&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xinan15&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xinan15&theme=transparent&utcOffset=0)
+<!-- profile summary cards -->
+![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
+
+<!-- tech stack shields -->
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
