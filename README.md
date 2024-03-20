@@ -3,14 +3,9 @@
 - I'm a CS graduate from QMUL with project-based software development experience.
 - Please check out my [portfolio](https://xinan15.github.io/Xinan/) and [LinkedIn](https://www.linkedin.com/in/iany11/) for more information, and feel free to reah out.
 
-<!-- profile summary cards -->
-![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
-
-<!-- tech stack shields -->
+[![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
