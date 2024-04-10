@@ -1,6 +1,6 @@
-👋 Hi! I'm a CS grad from QMUL, fond of coding and the creative process it involves.
-
-🔗 Check out my [LinkedIn profile](https://www.linkedin.com/in/iany11/) and [portfolio](https://xinan15.github.io/Xinan/) for a glimpse into my work. Open to chats, collaborations, or any exciting opportunities.
+👋 Hi! I'm a CS graduate who is fond of coding and the creative process it involves.<br>
+👨🏻‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/iany11/) and [portfolio](https://xinan15.github.io/Xinan/) for a glimpse into my work. <br>
+Open to chats, collaborations, or any exciting opportunities.
 
 [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
