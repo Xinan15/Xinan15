@@ -1,6 +1,6 @@
 👋 Hi! I'm a CS graduate who is fond of coding and the creative process it involves.<br>
 👨🏻‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/iany11/) and [portfolio](https://xinan15.github.io/Xinan/) for a glimpse into my work. <br>
-Open to chats, collaborations, or any exciting opportunities.
+🤝 Open to chats, collaborations, or any exciting opportunities.
 
 [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
