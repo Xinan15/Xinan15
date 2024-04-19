@@ -1,6 +1,6 @@
-👋 Hi! I'm a CS graduate who is fond of coding and the creative process it involves.<br>
-👨🏻‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/iany11/) and [portfolio](https://xinan15.github.io/Xinan/) for a glimpse into my work. <br>
-🤝 Open to chats, collaborations, or any exciting opportunities.
+👋🏻 Hi! I'm a CS graduate who is fond of coding and the creative process it involves.<br>
+Check out my [LinkedIn profile](https://www.linkedin.com/in/iany11/) and [portfolio](https://xinan15.github.io/Xinan/) for a glimpse into my work. <br>
+Open to chats, collaborations, or any exciting opportunities.
 
 [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xinan15/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -34,5 +34,3 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Raft](https://img.shields.io/badge/Raft-FF7E5A?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
