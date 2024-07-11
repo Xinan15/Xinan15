@@ -1,6 +1,6 @@
 ## 👋 Hello There!
 
-<h2 align="center">A motivated and detail-oriented software engineer<br> with two years of programming experience.</h2>
+<h2 align="center">A motivated and detail-oriented software engineer.</h2>
 
 ### 💻 Skills
 
